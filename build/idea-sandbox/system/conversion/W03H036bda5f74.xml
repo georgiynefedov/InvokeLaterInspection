@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Uni/PGdP/W03H03/.idea/workspace.xml" timestamp="1573133663437" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Uni/PGdP/W03H03/.idea/vcs.xml" timestamp="1572790078733" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Uni/PGdP/W03H03/.idea/modules.xml" timestamp="1572790078766" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Uni/PGdP/W03H03/.idea/misc.xml" timestamp="1572790078724" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Uni/PGdP/W03H03/Woche 03 H 03 - Schliess die Box.iml" timestamp="1572790078706" />
+  </project-files>
+</conversion>

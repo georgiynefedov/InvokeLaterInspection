@@ -1,0 +1,459 @@
+$CLASSPATH
+echo $CLASSPATH
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Run `brew help`
+brew --version
+brew --help
+brew search git
+brew install git
+brew install node
+git clone https://github.com/telerik/kendo-ui-core.git
+brew uninstall node
+brew uninstall git
+chmod a+x App.app/Contents/MacOS/launcher.sh
+add App.app/contents/MacOS/launcher.sh
+App.app/Contents/MacOS/
+Macintosh HD/Programme/Dokumente/App/Contents/MacOS
+cd Desktop/
+pwd
+touch filename
+touch launcher.sh
+/Users/georgiynefedov/Downloads/Sociogram.app/Contents/MacOS/socioRunner ; exit;
+git clone https://github.com/Jorl17/jar2app
+cd jar2app
+chmod +x install.sh uninstall.sh
+sudo ./install.sh /usr/local/bin
+jar2app Project 2.jar
+jar2app Project2.jar
+pwd
+jar2app Project2.jar
+jar2app Programme/Dokumente/Project2.jar
+brew Ant
+brew install Ant
+ant
+ant
+open release/App.app
+open App.app
+ant
+Appexample/
+Downloads/Appexample
+pwd
+goto Downloads/Appexample
+cd Downloads/Appexample
+ant
+open release/App.app
+ant
+ant
+ vim .bash_profile
+export JAVA_HOME=$(/usr/libexec/java_home)
+export JAVA_HOME=$(/usr/libexec/java_home)
+$ source .bash_profile
+$ echo $JAVA_HOME
+source .bash_profile
+vim .bash_profile
+create .bash_profile
+new .bash_profile
+touch .bash_profile
+touch App.bash_profile
+vim .bash_profile
+export JAVA_HOME=$(/usr/libexec/java_home)
+source .bash_profile
+echo $JAVA_HOME
+cd Downloads/Appexample
+ant
+open release/App.app
+open release/App.app
+open release/App.app
+/Users/georgiynefedov/Downloads/Appexample
+open release/App.app
+<runtime dir="${env.JAVA_HOME}" />
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home
+source .bash_profile
+echo $JAVA_HOME
+open release/App.app
+open release/App.app
+open release/App.app
+pwd
+cd Downloads
+cd Programme
+cd iCloud Drive
+Dokumente
+Appexample
+cdDokumente 
+cd Dokumente
+cd Appexample
+ant
+export JAVA_HOME=$(/usr/libexec/java_home)
+export JAVA_HOME=$(/usr/libexec/java_home)
+source .bash_profile
+echo $JAVA_HOME
+ant
+open release/App.app
+ant
+open release/App.app
+ant
+open release/App
+open release/App.app
+ant
+open release/App.app
+java-version
+java -version
+javac -version
+echo $JAVA_HOME
+ls -al
+echo $JAVA_HOME
+open -e .bash_profile
+echo $JAVA_HOME
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane
+sudo rm -fr ~/Library/Application\ Support/Java
+echo $JAVA_HOME
+.bash_profile
+vim .bash_profile
+export JAVA_HOME=$(/usr/libexec/java_home)
+source .bash_profile
+echo $JAVA_HOME
+/usr/libexec/java_home -v 1.7
+/usr/libexec/java_home -v 1.8
+echo $JAVA_HOME
+/usr/libexec/java_home -v 1.6
+echo $JAVA_HOME
+/usr/libexec/java_home -v 1.8
+open appvim app.bash_profile
+vim app.bash_profile
+open app.bash_profile
+echo app.bash_profile
+open release/App.app
+cd Programme/Dokumente
+cd Dokumente
+cd Dokumente/
+cd Programme
+cd Appexample
+cd Dokumente/Appexample
+export JAVA_HOME=$(/usr/libexec/java_home)
+echo $JAVA_HOME
+open App.bash_profile
+source App.bash_profile
+echo $JAVA_HOME
+source App.bash_profile
+echo $JAVA_HOME
+cd Appexample
+pwd
+cd ~/Appexample
+cd /Programme/Dokumente/Appexample
+pwd
+cd Users/georgiynefedov/Programme/Dokumente/Appexample
+cd Users/georgiynefedov/Programme/Dokumente/Appexample/release
+cd Programme/Dokumente/Appexample
+cd Downloads
+cd Programme
+Programs
+cd Programs
+pwd
+cd
+cd iCloud Drive
+cd Dokumente/Appexample
+cd Dokumente
+open release/App.app
+run Project2.jar
+open Project2.jar
+cd Downloads/Appexample
+open Project2.jar
+echo $JAVA_HOME
+cd Applications/Dokumente
+cd Applications
+cd Dokumente
+cd Applications/Dokumente
+Applications/Doks
+Appexample
+cd Appexample
+cd Dienstprogramme
+cd CASIO
+cd Applications/CASIO
+Applications/Brackets
+cd Brackets
+cd /Applications/Dokumente/Appexample
+ant
+ant
+open release/App.app
+/Applications/Dokumente/VokApp.app/Contents/MacOS/Application\ Stub ; exit;
+/Applications/Dokumente/VokApp.app/Contents/MacOS/Application\ Stub ; exit;
+cd Downloads
+ls
+ls
+mv appbundler-master ant
+ls
+mv ant ~
+ls~
+ls ~
+mv appbundler-1.0.1.jar ant
+mv Downloads/jar_files/appbundler-1.0.1.jar ~/ant
+Downloads/jar_files/appbundler-1.0.1.jar
+/Users/georgiynefedov/ant/appbundler-1.0.1.jar
+/Users/georgiynefedov/ant
+/Downloads/jar_files/appbundler-1.0.1.jar
+/Applications/Dokumente/Appexample/appbundler-1.0.jar
+mv/Applications/Dokumente/Appexample/appbundler-1.0.jar /Users/georgiynefedov/ant
+cd ~/Downloads
+mv ant ~/ant
+~/ant
+mv appbundler-1.0.jar ~/ant/lib/appbundler-1.0.jar
+/Applications/Dokumente/App1/App111/App111.app/Contents/MacOS/JavaAppLauncher ; exit;
+/Applications/Dokumente/VokApp.app/Contents/MacOS/Application\ Stub ; exit;
+/Applications/Dokumente/App1/release/App1.app/Contents/MacOS/JavaAppLauncher ; exit;
+brew tap caskroom/cask && brew cask install gimp
+git init
+cd /AndroidStudioProjects
+cd /Users/georgiynefedov/AndroidStudioProjects 
+ls
+ps
+hg
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,adress=7777
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,adress=7777
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,adress=7777
+-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,adress=7777
+java -agentlijava -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777
+java -agentlib:jdwp=help
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777
+mkdir ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+http://localhost/phpmyadmin/setup/
+hmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+chmod o+w ~/Sites/phpmyadmin/config
+$ cd ~/Sites/phpmyadmin
+$ cd Sites/phpmyadmin
+$ cd Downloads/phpmyadmin
+cd Sites/phpmyadmin
+sudo apachectl start
+sudo nano /etc/apache2/httpd.conf
+sudo nano /etc/apache2/httpd.conf
+sudo apachectl restart
+sudo /usr/local/mysql/bin/mysql -u root -p
+sudo /usr/local/mysql/bin/mysql -u root -p
+cd /usr/bin/
+sqlite3
+apache start
+start apache
+cd Sites/client
+touch login.txt
+cd Sites/client
+touch tortenliste.php
+mysql -u username -p
+sudo start
+sudo vi /etc/my.cnf
+cd ~/Game1
+cd ~/XCode\ Projects
+cd ~/Game1
+cd ~/XCode\ Projects/Game1
+pod init
+vim PodFile
+cd ~/XCode\ Projects/Game1
+open PodFile
+pod install
+sudo PodFile
+nano PodFile
+pod install
+ls
+ls
+pod install
+vim PodFile
+pod install
+sudo gem install cocoapods
+pod install
+pod install
+pod install
+pod install
+cd~/XCode\ Projects/Game1
+cd ~/XCode\ Projects/Game1/
+open PodFile
+pod install
+cd ~/XCode\ Projects/Game1/
+pod install
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
+brew cask install dia
+vim /Applications/Dia.app/Contents/Resources/bin/dia
+vim /Applications/Dia.app/Contents/Resources/bin/dia
+vim /Applications/Dia.app/Contents/Resources/bin/dia
+brew cask install dia
+brew cask reinstall dia
+vim /Applications/Dia.app/Contents/Resources/bin/dia
+brew cask install dia
+brew cask reinstall dia
+xterm -ls xrm 'XTerm*selectToClipboard: true'
+xterm -ls -xrm 'XTerm*selectToClipboard: true'
+xterm -ls xrm 'XTerm*selectToClipboard: true'
+xterm -ls -xrm 'XTerm*selectToClipboard: true'
+brew cask reinstall dia
+vim /Applications/Dia.app/Contents/Resources/bin/dia
+open dia
+brew cask install dia
+brew cask open dia
+node -v
+npm -v
+$ npm install -g @aws-amplify/cli
+$ amplify configure
+$ npm install -g @aws-amplify/cli
+npm install -g @aws-amplify/cli
+npm install -g @aws-amplify/cli
+npm install -g @aws-amplify/cli
+clear
+amplify configure
+cd ~/freelancer.com projects/Mahesh\ M/Mahesh\ M\ app
+cd ~/freelancer.com\ projects/Mahesh\ M/Mahesh\ M\ app
+sudo gem install cocoapods
+cd ~/freelancer.com\ projects/Mahesh\ M/Mahesh\ M\ app
+sudo gem install cocoapods
+pod init
+pod install --repo-update
+cd ~/freelancer.com projects/Mahesh\ M/Mahesh\ M\ app
+amplify init
+amplify push
+amplify init
+amplify push
+amplify status
+amplify add api
+~cd/Downloads/flutter
+cd ~/Downloads
+cd~/flutter
+cd ~/flutter
+cd
+cd ~/flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter precache
+flutter precache
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+ export PATH="$PATH:`pwd`/flutter/bin"
+ export PATH="$PATH:[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin"
+ export PATH="$PATH:flutter/flutter/bin
+source $HOME/.bash_profile
+echo $PATH
+echo $PATH
+echo $PATH
+echo $PATH
+echo $PATH
+echo $PATH
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+flutter precache
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+flutter doctor
+brew updat
+brew update
+brew install --HEAD usbmuxd
+brew link usbmuxd
+brew install --HEAD libimobiledevice
+brew install ideviceinstaller
+brew install ios-deploy
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+update sdkmanager
+sdkmanager update
+sdkmanager update
+sdkmanager
+brew install sdkmanager
+sdkmanager update
+sdkmanager --update[]
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+flutter doctor
+$HOME/.bash_profile
+$HOME/.bash_profile
+open $HOME/.bash_profile
+source $HOME/.bash_profile
+echo $PATH
+flutter doctor
+flutter doctor
+echo $PATH
+cd ~/flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+source $HOME/.bash_profile
+echo $PATH
+flutter doctor
+source $HOME/.bash_profile
+echo $PATH
+echo $PATH
+flutter doctor
+cd ~/flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+flutter doctor
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+cd ~/flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+flutter doctor
+flutter doctor
+echo $PATH
+cd ~flutter 
+cd flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+cd ~/flutter 
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+flutter precache
+echo $PATH
+flutter
+open §HOME/.bash_profile
+cd
+open §HOME/.bash_profile
+$HOME/.bash_profile
+open $HOME/.bash_profile
+echo $PATH
+flutter
+flutter doctor
+cd ~/flutter
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+cd
+export PATH="$PATH:`pwd`/flutter/bin"
+export PATH="$PATH:`pwd`/flutter/bin"
+flutter doctor
+export PATH="$PATH:`pwd`/flutter/bin"
+echo $PATH
+open $HOME/.bash_profile
+sudo killall -HUP mDNSResponder
+cd ./XCode\ Projects/spendings 
+pod install
+pod install --repo-update
+git config --global user.name "Georgiy Nefedov"
+git config --global user.email "georgiy.nefedov@tum.de"
+cd ./Users/georgiynefedov/Uni
+cd ./Uni
+java.c
+javac
+javac test.java
+javac test.java
+javac test.java
+javac test.java
+javac Test.java
+java Test
+javac --version
+ipconfig/flushdns
+sudo killall -HUP mDNSResponder

@@ -1,0 +1,32 @@
+<idea-plugin>
+    <id>com.intellij.codeInspectionInvokelaterInspection</id>
+    <name>Inspect SwingUtilities.invokeLater($runnable$)</name>
+    <vendor email="georgiy.nefedov@tum.de" url="https://www.linkedin.com/in/georgiy-nefedov-919b02184/">Georgiy Nefedov</vendor>
+
+    <description><![CDATA[
+        This plugin should find SwingUtilities.invokeLater($runnable$) in Code.
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <localInspection language="JAVA"
+                         displayName="Use if SwingUtilities.invokeLater($runnable$) may produce nullPointerException"
+                         groupPath="Java"
+                         groupBundle="messages.InspectionsBundle"
+                         groupKey="group.names.nullability.problems"
+                         enabledByDefault="true"
+                         level="WARNING"
+                         implementationClass="com.intellij.codeInspection.InvokeLaterInspection"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+
+    </actions>
+
+</idea-plugin>

@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Intellij Projects/ProgressBar/.idea/misc.xml" timestamp="1577100211111" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Intellij Projects/ProgressBar/.idea/modules.xml" timestamp="1576786903494" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Intellij Projects/ProgressBar/.idea/workspace.xml" timestamp="1577179675371" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Intellij Projects/ProgressBar/ProgressBar.iml" timestamp="1576786903481" />
+    <file path="/Users/georgiynefedov/Dropbox/Dokumente/Intellij Projects/ProgressBar/.idea/kotlinc.xml" timestamp="1576786900120" />
+  </project-files>
+</conversion>
